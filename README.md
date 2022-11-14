@@ -1,2 +1,2 @@
 # Organize_Items
- Programa para organizar os arquivos.
+Programa para organizar os arquivos.
